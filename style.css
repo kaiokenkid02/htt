@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    background-color: orangered;
+    width: 350px;
+    padding: 20px;
+}
+
+body {
+    color: white;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: rgba(240, 243, 236, 0.434);
+    font-size: 20px;
+    color: white;
+}
